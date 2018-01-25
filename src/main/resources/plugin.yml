@@ -1,0 +1,9 @@
+name: ${name}
+version: ${version}
+main: net.ttk1.autorecreateworld.AutoRecreateWorld
+depend: [Multiverse-Core]
+
+commands:
+  arw:
+    description: AutoRecreateWorld command.
+    usage: '/arw'
